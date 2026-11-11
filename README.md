@@ -17,12 +17,6 @@ The application uses the Tftpd64 4.74 server to transfer files. It does not inst
 - Temporary TFTP folder containing only the selected firmware file
 - Activity log display
 
-## Download
-
-Download the latest portable package from [GitHub Releases](https://github.com/YOUR-USERNAME/tftp-router-assistant/releases).
-
-Extract the entire ZIP archive before running `TftpRouterAssistant.exe`. Keep the `Tftpd64` folder beside the assistant executable.
-
 ## Requirements
 
 - Windows
